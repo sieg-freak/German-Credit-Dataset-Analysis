@@ -1,2 +1,2 @@
 # German Credit Dataset Analysis
-Анализ данных
+Анализ данных jupyter notebook
